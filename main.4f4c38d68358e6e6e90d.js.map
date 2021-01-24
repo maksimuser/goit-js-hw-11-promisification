@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./index.js","webpack:///./js/task.js"],"names":["console","log"],"mappings":"kHAAA,4B,mBCAAA,QAAQC,IAAI,iB","file":"main.4f4c38d68358e6e6e90d.js","sourcesContent":["import './styles.css';\r\nimport './js/task.js';\r\n","console.log('hello world');\r\n"],"sourceRoot":""}
