@@ -1,2 +1,2 @@
 import './styles.css';
-import './js/promisification.js';
+import './js/task-1.js';
